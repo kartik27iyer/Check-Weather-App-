@@ -1,7 +1,10 @@
 body{
     margin: 0;
     background-color: green;
-   background-image: url('weather_img.jpg');
+   background-image: url('weather1.jpeg');
+    background-attachment: fixed;
+    background-size: cover;
+    
     
 }
 .container{
